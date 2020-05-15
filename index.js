@@ -32,7 +32,7 @@ function sound(key) {
       tom3.play();
       break;
 
-    case "d":
+    case "h":
       var tom4 = new Audio('sounds/tom-1.mp3')
       tom4.play();
       break;
